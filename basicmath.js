@@ -1,10 +1,3 @@
-// module.export = {
-//   add : (a, b) => a + b,
-//   subtract : (a, b) => a - b,
-//   multiply: (a, b) => a * b,
-//   divide: (a,b) => a / b,
-// }
-
 
 function Add(a, b) {
   return a + b;
